@@ -42,7 +42,7 @@ export default class Profile extends Component {
           </Card.Description>
         </Card.Content>
         <Card.Content extra>
-            <LikeButton onClick={() => this.increaseVote()} count={this.state.count} />
+            <LikeButton onClick={() => this.increaseVote()} count={this.state.count} /> 
         </Card.Content>
       </Card>
 

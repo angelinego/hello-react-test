@@ -9,7 +9,7 @@ export default class App extends Component {
       <div className="App">
         <header>
           <h1 className="App-title">ROLEMOD</h1>
-          <p className="App-intro">Who's Your Role Model?</p>
+          <p className="App-intro">Who's Your Role Model?</p> <br />
         </header>
         <div className="container">
           <Profile
@@ -26,7 +26,7 @@ export default class App extends Component {
           <Profile
             image="/images/elon_musk.jpg"
             name="Elon Musk " bio="Entrepreneur/Visionary"
-            description="Elon Reeve Musk is a South African-born American entrepreneur and businessman who founded X.com in 1999 (which later became PayPal), SpaceX in 2002 and Tesla Motors in 2003. Musk became a multimillionaire in his late 20s when he sold his start-up company, Zip2, to a division of Compaq Computers."
+            description="Elon Reeve Musk is a South African-born American entrepreneur and businessman who founded X.com in 1999 (which later became PayPal), SpaceX in 2002 and Tesla Motors in 2003. Musk became a multimillionaire in his late 20s when he sold his start-up company, Zip2, to a division of Compaq Computers. As of February 7, 2018, his net worth is $20.4B USD."
             />
         </div>
       </div>
